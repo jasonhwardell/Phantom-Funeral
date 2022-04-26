@@ -1,4 +1,5 @@
 ---
+weight: 10
 title: Adventures
 ---
 Here is a list of some adventures:
