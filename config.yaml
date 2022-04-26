@@ -34,29 +34,29 @@ markup:
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-languages:
-  en:
-    languageName: English
-    contentDir: content
-    weight: 1
-  ru:
-    languageName: Russian
-    contentDir: content.ru
-    weight: 2
-  zh:
-    languageName: Chinese
-    contentDir: content.zh
-    weight: 3
+# languages:
+#   en:
+#     languageName: English
+#     contentDir: content
+#     weight: 1
+#   ru:
+#     languageName: Russian
+#     contentDir: content.ru
+#     weight: 2
+#   zh:
+#     languageName: Chinese
+#     contentDir: content.zh
+#     weight: 3
 
 menu:
   # before: []
   after:
-    - name: "Theme Docs/Demo"
-      url: "https://hugo-book-demo.netlify.app/"
+    - name: "jasonwardell.itch.io"
+      url: "https://jasonwardell.itch.io/"
       weight: 10
 
 params:
-  description: My site description.
+  description: A Phantom Funeral.
 
   # Use this for the social media preview functionality
   # images:
@@ -86,7 +86,7 @@ params:
 
   # Set source repository location. Set this to YOUR repository!
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/platenio/book-template
+  BookRepo: https://github.com/jasonhwardell/Phantom-Funeral
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
