@@ -1,17 +1,12 @@
 ---
-title: My Very Good Games
+title: Phantom Funeral Press
 type: docs
 ---
 
-This is a place with some very good games I made. It uses hugo and markdown to turn some plaintext drafts into a website.
+This is the place for the triflings of Phantom Funeral Press, an illusory imprint from the remains of Dayton, Ohio, USA.
 
-You can install this website as an app, it's a fully functional PWA!
+The site design and implementation is whole-hog lifted from [Michael Lombardi's Platen Template](https://github.com/platenio/platen-template). It's a good design and I like it a lot.
 
-You can checkout two different versions of Picaroons, either via the menu or these links:
+If patterns of behavior prove true, I'll maybe update this one or two more times before abandoning it for good, but it was nice while it lasted. Almost everything I'm writing these days is in Markdown, though, so who knows! 
 
-1. [Picaroons as a multi-page project](/games/picaroons)
-2. [Picaroons as a single-page project](/games/picaroons-sp)
-
-You can also checkout the blog via the menu or [this link](/posts).
-
-While not currently implemented, you can include multiple language versions of your site and switch between them via the menu.
+Links to the things here.
