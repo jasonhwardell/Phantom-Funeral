@@ -68,3 +68,25 @@ _"Having that warmongering despot on our door was miserable. I try to not think 
 A lean, barb-tongued tavern owner who is furious at having a family heirloom—a floral locket—stolen amid a recent wave of burglaries. She knows everyone in town and is looking for excuses to pin the crime on someone.
 
 _"See where you get when you cross your barkeep. See where you get."_
+
+### Other Rumors
+1. **False** - _"Tonight, keep an ear to the west. There've been heavy drums almost every night—war drums, I reckon. Listen, and you'll hear them!"_
+2. **False** - _"I swear that shadow has been blooming and stretching. Just the other day, it was sprouting arms and I'm sure it would've caught me if I didn't hightail it."_
+3. **False** - _"The Tyrant King is alive and heading for Krotak! He's got a whole regiment in the dungeon and it's only a matter of time before we're subjects again—or worse."_
+4. **True** - _"A week back, I saw a flicker of light at the mouth of that damn dungeon. Spooked my horse good, and me, too, if we're being honest. Haven't seen it since, though."_
+5. **True** - _"Those people, those changed things in the Shadow look creepy, but they're harmless. Mostly eat bugs and moss to survive, too weak to hunt or scavenge anything else."_
+6. **True** - _"The Shadow is toxic in a way, y'know. Contagious. Spend too long in it, and you'll change, too."_
+
+## Shadow
+The pulsing miasma of Shadow looms at the edge of the landscape west of Krotak. From the fields and pasture surrounding the town, it is as a smooth grey-black stone placed atop the land. At the perimeter, there is a small weather-beaten stone structure, half-covered in Shadow: the entrance to the dungeon.
+
+The air is noticeably thicker in the Shadow. Humid and stale, there is a substance one can feel on the skin, in the eyes, in the lungs. Upon coming into contact with it, and for every Watch spent within, a character must Save against its contagious and corrupting effects. Following three consecutive failed Saves, the irreversible Change begins:
+
+| # Failed | Effect                                                                                                                                                                    |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3        | It's a little easier to see in the dark, a little harder to tolerate bright lights.                                                                                       |
+| 4        | Any light causes pain and confusion, all attributes, attacks, and saves are at -2 outside of the Shadow.                                                                  |
+| 5        | You will do anything you can to avoid light and become violent when faced with it. Attributes, attacks, saves at -5 outside Shadow.                                       |
+| 6        | Your skin takes a pale, translucent tone, your hair thins, you stop eating and drinking. Grit can no longer be recovered by any means.                                    |
+| 7        | Exposure to light causes 1 Flesh damage per turn. You can smell edible fungus and moss, and are drawn to it.                                                              |
+| 8        | You are too weak to stand, think, or weep, but you cannot die unaided. Even if exposed to light for a prolonged time, you will only howl in unnatural pain but never die. |
