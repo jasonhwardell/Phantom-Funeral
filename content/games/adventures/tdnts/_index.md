@@ -28,18 +28,21 @@ Arriving, perhaps to investigate the utter collapse of a powerful continent-span
 
 ### Townsfolk
 <img align="right" width=125 src="cassidy.png">  
+
 1. **Cassidy** (she/her) - 3HD, 6AC, Longsword  
 A stern, towering former soldier of the Tyrant King, now serving as a blacksmith's apprentice. She defected when the Shadow emerged, abandoning her assigned post at the dungeon situated just outside of the occlusion. She is mournful for former comrades who chose to remain loyal.  
   
 _"We weren't all bad. Some of us strove to make things better... Not all of them deserved to die. Many did, but not all. I should have done more to help."_
 
 <img align="right" width=125 src="anemone.png">  
+
 2. **Anemone** (she/them) - 1HD, 2AC, Spellbook containing _Web_, _Sleep_, and _Detect Magic_.  
 An ageless, always-smiling merchant who claims to have a trade route through the lands under Shadow. She notes with grim sincerity that it takes one week by horse to clear, past the abandoned kingdom, and out to the coast and blessed light.  
   
 _"There are some in there... wouldn't call 'em people anymore. They don't want for traditional wares. Sorry wretches; best to leave 'em be and keep moving."_
 
 <img align="right" width=125 src="graham.png">  
+
 3. **Graham** (he/them) - 2HD, 4AC, Holy Symbol, _Cure Light Wounds_, _Purify Food and Drink_.  
 A hunched and rosy-cheeked former healer, who trekked into the Shadow in the early days to recover survivors. Returned alone after a week and hasn't left the tavern since. They don't talk about it, only drink, but welcome company while doing so.  
   
