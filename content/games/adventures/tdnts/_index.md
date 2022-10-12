@@ -67,4 +67,4 @@ _"Having that warmongering despot on our door was miserable. I try to not think 
 6. **Bert** (she/her) - 2HD, 2AC, Cudgel, Good Booze  
 A lean, barb-tongued tavern owner who is furious at having a family heirloom—a floral locket—stolen amid a recent wave of burglaries. She knows everyone in town and is looking for excuses to pin the crime on someone.
 
-_"See what you get when you cross your barkeep. See where you get."_
+_"See where you get when you cross your barkeep. See where you get."_
