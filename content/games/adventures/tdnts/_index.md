@@ -57,7 +57,7 @@ _"The time is at hand when you—all of you—will account and live eternally in
 
 <img align="right" width=125 src="karin.png">  
 
-5. **Karin** (they/them) - 3HD, 4AC, Sickle, Trowel  
+5. **Karin** (they/them) - 3HD, 4AC, Sickle, Spear  
 A tanned, middle-aged farmhand, who used to have a large tract of family land that is now fully encompassed by the Shadow. They have nightmares of a beast with the face of the former King prowling the borderlands.
 
 _"Having that warmongering despot on our door was miserable. I try to not think about it; we're better off now in nearly every way."_
