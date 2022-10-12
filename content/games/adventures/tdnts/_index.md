@@ -82,11 +82,11 @@ The pulsing miasma of Shadow looms at the edge of the landscape west of Krotak. 
 
 The air is noticeably thicker in the Shadow. Humid and stale, there is a substance one can feel on the skin, in the eyes, in the lungs. Upon coming into contact with it, and for every Watch spent within, a character must Save against its contagious and corrupting effects. Following three consecutive failed Saves, the irreversible Change begins:
 
-| # Failed | Effect                                                                                                                                                                    |
-|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3        | It's a little easier to see in the dark, a little harder to tolerate bright lights.                                                                                       |
-| 4        | Any light causes pain and confusion, all attributes, attacks, and saves are at -2 outside of the Shadow.                                                                  |
-| 5        | You will do anything you can to avoid light and become violent when faced with it. Attributes, attacks, saves at -5 outside Shadow.                                       |
-| 6        | Your skin takes a pale, translucent tone, your hair thins, you stop eating and drinking. Grit can no longer be recovered by any means.                                    |
-| 7        | Exposure to light causes 1 Flesh damage per turn. You can smell edible fungus and moss, and are drawn to it.                                                              |
-| 8        | You are too weak to stand, think, or weep, but you cannot die unaided. Even if exposed to light for a prolonged time, you will only howl in unnatural pain but never die. |
+| # | Effect by Number of Failed Saves                                                                                                                                             |
+|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 3 | It's a little easier to see in the dark, a little harder to tolerate bright lights.                                                                                       |
+| 4 | Any light causes pain and confusion, all attributes, attacks, and saves are at -2 outside of the Shadow.                                                                  |
+| 5 | You will do anything you can to avoid light and become violent when faced with it. Attributes, attacks, saves at -5 outside Shadow.                                       |
+| 6 | Your skin takes a pale, translucent tone, your hair thins, you stop eating and drinking. Grit can no longer be recovered by any means.                                    |
+| 7 | Exposure to light causes 1 Flesh damage per turn. You can smell edible fungus and moss, and are drawn to it.                                                              |
+| 8 | You are too weak to stand, think, or weep, but you cannot die unaided. Even if exposed to light for a prolonged time, you will only howl in unnatural pain but never die. |
