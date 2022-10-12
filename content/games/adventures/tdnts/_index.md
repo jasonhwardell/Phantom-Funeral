@@ -1,3 +1,11 @@
+---
+weight: 10
+title: The Dungeon Near the Shadow
+description: |
+  Introductory System-Agnostic TTRPG Horror
+---
+<iframe frameborder="0" src="https://itch.io/embed/1193059?linkback=true" width="552" height="167"><a href="https://jasonwardell.itch.io/the-dungeon-near-the-shadow">The Dungeon Near the Shadow by jason wardell</a></iframe>
+
 ## Introduction
 The persistent suborbital occlusion sits writhing in the west. It dropped from the heavens, some say, or maybe it bubbled out of the ground or burst out of the space between air, three years past. Some call it the *Shadow* for how it negates the light, drowning everything it covers in opaque darkness. 
 
