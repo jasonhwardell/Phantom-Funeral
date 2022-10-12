@@ -27,5 +27,5 @@ The town of **Krotak** is the last town before the shadow overtakes the western 
 Arriving, perhaps to investigate the utter collapse of a powerful continent-spanning empire, perhaps out of curiosity for the supernatural occurrence that effected it, one finds Krotak to be an insular community. Outsiders are greeted with thinly-veiled suspicion and a bare minimum of hospitality.
 
 ### Townsfolk
-1. **Cassidy** (she/her) - 3HD, 4AC, Longsword  <img align="right" width=100 src="cassidy.png">  
+1. **Cassidy** (she/her) - 3HD, 4AC, Longsword  <img align="left" width=100 src="cassidy.png">  
 A stern, towering former soldier of the Tyrant King, now serving as a blacksmith's apprentice. She defected when the Shadow emerged, abandoning her assigned post at the dungeon situated just outside of the occlusion. She is mournful for former comrades who chose to remain loyal. 
