@@ -32,18 +32,39 @@ Arriving, perhaps to investigate the utter collapse of a powerful continent-span
 1. **Cassidy** (she/her) - 3HD, 6AC, Longsword  
 A stern, towering former soldier of the Tyrant King, now serving as a blacksmith's apprentice. She defected when the Shadow emerged, abandoning her assigned post at the dungeon situated just outside of the occlusion. She is mournful for former comrades who chose to remain loyal.  
   
-  _"We weren't all bad. Some of us strove to make things better... Not all of them deserved to die. Many did, but not all. I should have done more to help."_
+_"We weren't all bad. Some of us strove to make things better... Not all of them deserved to die. Many did, but not all. I should have done more to help."_
 
 <img align="right" width=125 src="anemone.png">  
 
 2. **Anemone** (she/them) - 1HD, 2AC, Spellbook containing _Web_, _Sleep_, and _Detect Magic_.  
 An ageless, always-smiling merchant who claims to have a trade route through the lands under Shadow. She notes with grim sincerity that it takes one week by horse to clear, past the abandoned kingdom, and out to the coast and blessed light.  
   
-  _"There are some in there... wouldn't call 'em people anymore. They don't want for traditional wares. Sorry wretches; best to leave 'em be and keep moving."_
+_"There are some in there... wouldn't call 'em people anymore. They don't want for traditional wares. Sorry wretches; best to leave 'em be and keep moving."_
 
 <img align="right" width=125 src="graham.png">  
 
 3. **Graham** (he/them) - 2HD, 4AC, Holy Symbol, _Cure Light Wounds_, _Purify Food and Drink_.  
 A hunched and rosy-cheeked former healer, who trekked into the Shadow in the early days to recover survivors. Returned alone after a week and hasn't left the tavern since. They don't talk about it, only drink, but welcome company while doing so.  
-  
-  _"Another."_
+ 
+ _"Another."_
+
+<img align="right" width=125 src="ashen.png">  
+
+4. **Ashen** (he/him) - 3HD, 2AC, Noxious Censer, _Speak with Fungi_.  
+A doomsday prophet who draws a small audience every day in Krotak town square. He claims to speak on behalf of the Shadow, promising that the Tyrant King's fall was just the beginning, and soon the world entire will be enveloped. He is capable of speaking with the Changed.
+
+_"The time is at hand when you—all of you—will account and live eternally in pain and suffering under the great cleansing darkness!"_
+
+<img align="right" width=125 src="karin.png">  
+
+5. **Karin** (they/them) - 3HD, 4AC, Sickle, Trowel
+A tanned, middle-aged farmhand, who used to have a large tract of family land that is now fully encompassed by the Shadow. They have nightmares of a beast with the face of the former King prowling the borderlands.
+
+_"Having that warmongering despot on our door was miserable. I try to not think about it; we're better off now in nearly every way."_
+
+<img align="right" width=125 src="bert.png">  
+
+6. **Bert** (she/her) - 2HD, 2AC, Cudgel, Good Booze
+A lean, barb-tongued tavern owner who is furious at having a family heirloom—a floral locket—stolen amid a recent wave of burglaries. She knows everyone in town and is looking for excuses to pin the crime on someone.
+
+_"See what you get when you cross your barkeep. See where you get."_
