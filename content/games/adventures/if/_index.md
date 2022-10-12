@@ -7,7 +7,7 @@ description: |
 <iframe frameborder="0" src="https://itch.io/embed/1226505?linkback=true" width="552" height="167"><a href="https://jasonwardell.itch.io/immortal-festival">Immortal Festival by jason wardell</a></iframe>
 
 ## Introduction
-_"No way you believe in that. Youre, like, a full-grown adult and those are kids' stories._ OLD _kids' stories. Every thousand years, for one day the gods walk among the mortals, and so on and so forth. It's ridiculous, and you're going to feel ridiculous when—"_
+_"No way you believe in that. You're, like, a full-grown adult and those are kids' stories._ OLD _kids' stories. Every thousand years, for one day the gods walk among the mortals, and so on and so forth. It's ridiculous, and you're going to feel ridiculous when—"_
 
 There's a faint, pleasant scent on the breeze and the word _ambrosia_ on your tongue. You inhale sharply and the world seems cleaner, brighter. It's early morning in Mirna, and the sun rising over the water carries with it a new luster and a deep calm. From your hilltop vantage, you can see the crowd approaching the shore as it recedes and divides as if cut with a butter knife, making way for the goddess of the waters to stride ashore and into the arms of her people. 
 
@@ -19,7 +19,7 @@ And it is true. You find you have an endless capacity for forgiveness.
 
 ### Time to Celebrate
 
-**IMMORTAL FESTIVAL** is a short sidequest adventure setting for characters of any level. It was designed to be system-neutral, but while I was writing, I was thinking about CAIRN by Yochai Gal, PILGRIMS OF MISFORTUNE by Nate Treme, with a bit of THE VANILLA GAME by Jared Sinclair in there, too. The title was generated using Chris Bissette's *Random Adventure Title Generator* and the module was written for submission to their *Random Adventure Jam* on itch.io. As this is the Markdown version, it has no artwork, but the art in the Physical edition is all from Old Book Illustrations and is in the public domain.
+**IMMORTAL FESTIVAL** is a short sidequest adventure setting for characters of any level. It was designed to be system-neutral, but while I was writing, I was thinking about [CAIRN by Yochai Gal](https://yochaigal.itch.io/cairn), [PILGRIMS OF MISFORTUNE by Nate Treme](https://www.exaltedfuneral.com/products/pilgrims-of-misfortune-pdf), with a bit of [THE VANILLA GAME by Jared Sinclair](https://vanillagame.carrd.co/) in there, too. The title was generated using [Chris Bissette's *Random Adventure Title Generator*](https://loottheroom.uk/random-adventure-title-generator) and the module was written for submission to their [*Random Adventure Jam* on itch.io](https://itch.io/jam/random-adventure-jam). As this is the Markdown version, it has no artwork, but the art in the Physical edition is all from Old Book Illustrations and is in the public domain.
 
 Writing and layout by Jason Wardell, October 2021. Revised for Markdown October 2022. Neat.
 
