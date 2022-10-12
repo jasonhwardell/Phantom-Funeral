@@ -57,14 +57,14 @@ _"The time is at hand when you—all of you—will account and live eternally in
 
 <img align="right" width=125 src="karin.png">  
 
-5. **Karin** (they/them) - 3HD, 4AC, Sickle, Trowel
+5. **Karin** (they/them) - 3HD, 4AC, Sickle, Trowel  
 A tanned, middle-aged farmhand, who used to have a large tract of family land that is now fully encompassed by the Shadow. They have nightmares of a beast with the face of the former King prowling the borderlands.
 
 _"Having that warmongering despot on our door was miserable. I try to not think about it; we're better off now in nearly every way."_
 
 <img align="right" width=125 src="bert.png">  
 
-6. **Bert** (she/her) - 2HD, 2AC, Cudgel, Good Booze
+6. **Bert** (she/her) - 2HD, 2AC, Cudgel, Good Booze  
 A lean, barb-tongued tavern owner who is furious at having a family heirloom—a floral locket—stolen amid a recent wave of burglaries. She knows everyone in town and is looking for excuses to pin the crime on someone.
 
 _"See what you get when you cross your barkeep. See where you get."_
