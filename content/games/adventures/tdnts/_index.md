@@ -80,13 +80,63 @@ _"See where you get when you cross your barkeep. See where you get."_
 ## Shadow
 The pulsing miasma of Shadow looms at the edge of the landscape west of Krotak. From the fields and pasture surrounding the town, it is as a smooth grey-black stone placed atop the land. At the perimeter, there is a small weather-beaten stone structure, half-covered in Shadow: the entrance to the dungeon.
 
-The air is noticeably thicker in the Shadow. Humid and stale, there is a substance one can feel on the skin, in the eyes, in the lungs. Upon coming into contact with it, and for every Watch spent within, a character must Save against its contagious and corrupting effects. Following three consecutive failed Saves, the irreversible Change begins:
+The air is noticeably thicker in the Shadow. Humid and stale, there is a substance one can feel on the skin, in the eyes, in the lungs. Even with a light source, visibility is halved, torches slinking away from the darkness. 
 
-| # | Effect by Number of Failed Saves                                                                                                                                             |
-|---|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 3 | It's a little easier to see in the dark, a little harder to tolerate bright lights.                                                                                       |
-| 4 | Any light causes pain and confusion, all attributes, attacks, and saves are at -2 outside of the Shadow.                                                                  |
-| 5 | You will do anything you can to avoid light and become violent when faced with it. Attributes, attacks, saves at -5 outside Shadow.                                       |
-| 6 | Your skin takes a pale, translucent tone, your hair thins, you stop eating and drinking. Grit can no longer be recovered by any means.                                    |
-| 7 | Exposure to light causes 1 Flesh damage per turn. You can smell edible fungus and moss, and are drawn to it.                                                              |
-| 8 | You are too weak to stand, think, or weep, but you cannot die unaided. Even if exposed to light for a prolonged time, you will only howl in unnatural pain but never die. |
+Upon coming into contact with Shadow, and for every Watch spent within, a character must Save against its corrupting effects. Following three consecutive failed Saves, the irreversible Change begins. Gain one level of Shadow corruption for every further failed save against Shadow.
+
+| Level | Shadow Corruption                                                                                                                                                                      |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | It's a little easier to see in the Shadow, a little harder to tolerate bright lights.                                                                                                  |
+| 2     | You can see perfectly in the Shadow. Leaving it causes pain and confusion. All attributes, attacks, and saves are at -2 outside of the Shadow.                                         |
+| 3     | You will do anything you can to avoid any light and become violent when faced with it. Attributes, attacks, saves at -5 outside Shadow.                                                |
+| 4     | Your skin takes a pale, translucent tone, your hair thins, you stop eating and drinking. Grit can no longer be recovered by any means.                                                 |
+| 5     | Exposure to light causes 1 Flesh damage per turn. You can smell edible fungus and moss, and are drawn to it.                                                                           |
+| 6     | You are too weak to stand, think, or weep, but you cannot die unaided. Even if exposed to light for a prolonged time, you will only howl in unnatural pain, never succumbing to peace. |
+
+## Dungeon
+The small outbuilding is the only part of the Dungeon visible from outside the Shadow, its banded wooden door slightly ajar, the twin flanking guard posts long abandoned. 
+
+There is no light in the Dungeon.
+
+### Encounters
+Each Turn, there is a 1 in 6 chance of an encounter. The Shadow Beast and Shadow Keeper only appear once, in a randomly-determined room.
+
+| # | Encounter          |
+|---|--------------------|
+| 1 | Shadow Beast       |
+| 2 | 1d6 Changed        |
+| 3 | 1d6 Changed Beasts |
+| 4 | 1d6+1 Townsfolk    |
+| 5 | Shadow Keeper      |
+| 6 | Roll Twice         |
+
+#### Changed
+1HD, 0AC, 1d4+2 Shadow Corruption, Attacks at 1d6-1. 
+
+Weak and cowardly, they suck at moss and lichen at the corners of the dungeon walls. Most have shed their Soldiers' armor and are too weak to bear arms. Automatically Hostile if exposed to light.
+
+#### Changed Beasts
+2HD, 2AC.
+
+Shadow-altered canids seeking greater sustenance than moss. Will eat other Changed creatures if desperate. 
+
+Most have clawed their own eyes out and are not affected by light in the same way as Changed people. 
+
+#### Townsfolk
+1HD, 2AC, carry torches. 
+
+Unless reacting as Friendly or Helpful, they believe the outsiders to be the burglars.
+
+#### Shadow Beast
+4HD, 5AC, Attacks twice at 1d6+1, Save vs. Shadow exposure on a hit.
+
+Hunts the un-changed and can sense them from 150ft away. Can move soundlessly through any amount of pooled Shadow, retreating this way if badly wounded. Only deterred by sunlight. 
+
+Not a Changed beast, but something else.
+
+#### Shadow Keeper
+5HD, 3AC, Casts spells as a level 5 Magic-User. 
+
+An emissary from the inner-Shadow commune of Luma. Seeks out Changed to cast _Affinity With Shadow_ on them, which reduces Shadow Corruption by 1d4 once per target. Automatically Hostile if they believe you have killed any Changed. 
+
+Not a Changed person, but something else. 
