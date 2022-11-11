@@ -13,16 +13,16 @@ The sun no longer sets in the west: it disappears into the Shadow, and each even
 
 **THE DUNGEON NEAR THE SHADOW** is a low-level horror-flavored adventure for the tabletop role-playing game of your choice. It refers to many standard elements across simple systems—hit dice, armor value, saves—but if your system does not use these mechanics, you should find a suitable substitute that maintains a vibe of _creepy, weird, & dangerous._
 
-Words and design by Jason Wardell^[https://jasonwardell.itch.io/], September 2021. Revised October 2022.
+Words and design by (Jason Wardell)[https://jasonwardell.itch.io/], September 2021. Revised November 2022.
 
-Character portraits by Evlyn Moreau^[https://www.patreon.com/evlynmoreau/].
+Character portraits by (Evlyn Moreau)[https://www.patreon.com/evlynmoreau/].
 
 Art and text may not be reused. All artists maintain copyright of their work.
 
 When it comes our time to change, may we be led caringly into that terrifying unknown, and may we learn to do the same for those who come after.
 
 ## Krotak
-The town of **Krotak** is the last town before the shadow overtakes the western lands. Despite its proximity to the cursed occlusion, it is a thriving and peaceful place. When the shadow emerged, it wholly enveloped the seat of power for the Tyrant King Lyrica,^[b. Lyrica Marian Elea V, 454-532(?), a cowardly and power-hungry man. His kingdom collapsed at the first sign of danger, and he holed himself up in his tower. Presumably dead.] effectively liberating the fertile farmlands at the outskirts of his domain. The farmers and tradespeople who were so commonly subjected to his cruelty built up Krotak as an independent community, and it has blossomed into a tight-knit and self-sustaining settlement.
+The town of **Krotak** is the last town before the shadow overtakes the western lands. Despite its proximity to the cursed occlusion, it is a thriving and peaceful place. When the shadow emerged, it wholly enveloped the seat of power for the Tyrant King Lyrica, effectively liberating the fertile farmlands at the outskirts of his domain. The farmers and tradespeople who were so commonly subjected to his cruelty built up Krotak as an independent community, and it has blossomed into a tight-knit and self-sustaining settlement.
 
 Arriving, perhaps to investigate the utter collapse of a powerful continent-spanning empire, perhaps out of curiosity for the supernatural occurrence that effected it, one finds Krotak to be an insular community. Outsiders are greeted with thinly-veiled suspicion and a bare minimum of hospitality.
 
@@ -224,7 +224,7 @@ To the north-west, through the Shadow, an open tunnel leads to a natural cavern,
 
 Filled with Shadow.
 
-In a far alcove of the cavern, five Changed sit huddled and chanting around Bert's locket^[A magical charm used to encourage fungal growth. Remarkably valuable—300GP on the low end—but Bert likes it most because it reminds her of home.], the floral icon emitting a calming glow atop an abundant bed of green-grey lichen. These Changed are averse to light, but will not become aggressive or cease their chanting except under duress. Removing the locket ends the growth spell, but the bed of lichen remains lush.
+In a far alcove of the cavern, five Changed sit huddled and chanting around Bert's locket (300GP, encourages fungal growth), the floral icon emitting a calming glow atop an abundant bed of green-grey lichen. These Changed are averse to light, but will not become aggressive or cease their chanting except under duress. Removing the locket ends the growth spell, but the bed of lichen remains lush.
 
 The Lichen Farm is the destination of the Shadow Keeper, who has sensed the locket's power, and is seeking Changed to cast _Affinity With Shadow_ upon them and lead them to the Shadow commune of Umbra. 
 
