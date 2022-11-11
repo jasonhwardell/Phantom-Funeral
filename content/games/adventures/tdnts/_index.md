@@ -135,7 +135,7 @@ Throughout the bunker, loose clouds of Shadow break free and roam, seeking host.
 The people of Krotak are suspicious of outsiders, especially in the recent rash of burglaries. Having grown complacent, they are not eager to return to lives encountering adventurers, travelers, and kings.
 
 #### Shadow Beast
-<img align="right" width=215 src="AnxietyThing.jpg">  
+<img align="right" width=225 src="AnxietyThing.jpg">  
 
 4HD, 5AC, Attacks twice at 1d6+1, Save vs. Shadow exposure on a hit.
 
@@ -200,6 +200,8 @@ The cold food storage room is wildly overgrown with mold. Three Well-Fed Changed
 
 Much stronger than the other Changed due to their constant consumption of the fast-growing mold in the Larder. They target torchbearers first, attempting to extinguish any light. Once the torches are out, they try to force-feed their opponents fistfuls of mold: Save or succumb to the psychoactive substance for 1d6 hours, during which time you can take no actions other than gorging on the putrid mass.
 
+To the north, hidden behind a wall of mold, a tunnel winds west. A half hour's crawl through moss spores and roughly-dug earth leads to the Lichen Farm.
+
 ### 7. Barracks
 A long chamber lined with 10 bunk beds on either side. Weapons, armor, and personal belongings are scattered throughout the room, making movement difficult. Each bed has a 1 in 6 chance of containing a Changed, who will wake shrieking if disturbed—immediately check for a random encounter, which will arrive from an adjacent room. 
 
@@ -212,12 +214,12 @@ Three battered training dummies, two in heavy armor, stand along the east wall n
 
 No Shadow in this room.
 
-To the west, a double set of reinforced iron doors, barred from this side. To the east, a hidden passage, revealed if a set of heavy armor is placed on the bare training dummy.
+To the west, a double set of reinforced iron doors, barred from this side. To the east, a hidden passage, revealed if a set of heavy armor is placed on the bare training dummy. At the bottom of the pit, the west wall is thin, and a solid blow would open a cavernous passage connecting to the Lichen Farm.
 
 ### 9. Jail Cells
 Nine locked cells, several containing emaciated Changed. A major portion of the north wall is collapsed, and Shadow pools in from above, completely filling the corridor to the midpoint. 
 
-To the north-west, through the Shadow, an open tunnel leads to a natural cavern, a low wordless chanting. To the north, the collapsed wall leads up and out into the Shadowlands.
+To the north-west, through the Shadow, an open tunnel leads to a natural cavern, a low wordless chanting. To the north, the collapsed wall leads up and out into the Shadowlands. 
 
 ### 10. Lichen Farm
 <img align="right" width=325 src="FacelessOne.jpg"> 
