@@ -135,7 +135,7 @@ Throughout the bunker, loose clouds of Shadow break free and roam, seeking host.
 The people of Krotak are suspicious of outsiders, especially in the recent rash of burglaries. Having grown complacent, they are not eager to return to lives encountering adventurers, travelers, and kings.
 
 #### Shadow Beast
-<img align="right" width=215 src="AnxietyThing.png">  
+<img align="right" width=215 src="AnxietyThing.jpg">  
 
 4HD, 5AC, Attacks twice at 1d6+1, Save vs. Shadow exposure on a hit.
 
@@ -224,7 +224,7 @@ Filled with Shadow.
 
 In a far alcove of the cavern, five Changed sit huddled and chanting around Bert's locket^[A magical charm used to encourage fungal growth. Remarkably valuable—300GP on the low end—but Bert likes it most because it reminds her of home.], the floral icon emitting a calming glow atop an abundant bed of green-grey lichen. These Changed are averse to light, but will not become aggressive or cease their chanting except under duress. Removing the locket ends the growth spell, but the bed of lichen remains lush.
 
-<img align="right" width=175 src="FacelessOne.png"> 
+<img align="right" width=175 src="FacelessOne.jpg"> 
 
 The Lichen Farm is the destination of the Shadow Keeper, who has sensed the locket's power, and is seeking Changed to cast _Affinity With Shadow_ upon them and lead them to the Shadow commune of Umbra. 
 
