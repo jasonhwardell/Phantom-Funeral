@@ -107,13 +107,15 @@ Each Turn, there is a 1 in 6 chance of an encounter. The Shadow Beast and Shadow
 | 2 | 1d6 Changed        |
 | 3 | 1d6 Changed Beasts |
 | 4 | 1d6+1 Townsfolk    |
-| 5 | Shadow Keeper      |
-| 6 | Roll Twice         |
+| 5 | Patch of Shadow    |
+| 6 | Shadow Keeper      |
 
 #### Changed
 1HD, 0AC, 1d4+2 Shadow Corruption, Attacks at 1d6-1. 
 
-Weak and cowardly, they suck at moss and lichen at the corners of the dungeon walls. Most have shed their Soldiers' armor and are too weak to bear arms. Automatically Hostile if exposed to light.
+Pitiful, pallid, and endlessly on the precipice of death, they suck at moss and lichen at the corners of the dungeon walls. Most have shed their Soldiers' armor and are too weak to bear arms. 
+
+Automatically Hostile if exposed to light.
 
 #### Changed Beasts
 2HD, 2AC.
@@ -122,21 +124,113 @@ Shadow-altered canids seeking greater sustenance than moss. Will eat other Chang
 
 Most have clawed their own eyes out and are not affected by light in the same way as Changed people. 
 
-#### Townsfolk
-1HD, 2AC, carry torches. 
+#### Patch of Shadow
+0HD, Save vs. Shadow to destroy with fire
 
-Unless reacting as Friendly or Helpful, they believe the outsiders to be the burglars.
+Throughout the bunker, loose clouds of Shadow break free and roam, seeking host. They congregate around the Changed, but subtly move toward any uninfected in the room.
+
+#### Townsfolk
+1HD, 2AC, carry torches and simple weapons. 
+
+The people of Krotak are suspicious of outsiders, especially in the recent rash of burglaries. Having grown complacent, they are not eager to return to lives encountering adventurers, travelers, and kings.
 
 #### Shadow Beast
+<img align="right" width=215 src="AnxietyThing.png">  
+
 4HD, 5AC, Attacks twice at 1d6+1, Save vs. Shadow exposure on a hit.
 
-Hunts the un-changed and can sense them from 150ft away. Can move soundlessly through any amount of pooled Shadow, retreating this way if badly wounded. Only deterred by sunlight. 
+A six-limbed monstrosity of knotted muscle and corporeal Shadow. Hunts the un-Changed and can sense them from 150ft away. Can move soundlessly through any amount of pooled Shadow, retreating this way if badly wounded. Only deterred by sunlight. 
 
 Not a Changed beast, but something else.
 
 #### Shadow Keeper
 5HD, 3AC, Casts spells as a level 5 Magic-User. 
 
-An emissary from the inner-Shadow commune of Luma. Seeks out Changed to cast _Affinity With Shadow_ on them, which reduces Shadow Corruption by 1d4 once per target. Automatically Hostile if they believe you have killed any Changed. 
+A faceless emissary wearing an amorphous robe of Shadow. Seeks out Changed to purify using an _Affinity With Shadow_ ritual, which reduces Shadow Corruption by 1d4, once per target. Automatically Hostile if they believe you have killed any Changed. 
 
 Not a Changed person, but something else. 
+
+### 1. Entrance
+The small room was thoroughly scavenged shortly after the Shadow's arrival. Signs of a recent visitor—burnt logs, flint, scraps of bloody fabric—are roughly a week old. 
+
+While the exterior of the dungeon's entrance is bisected by Shadow, there is none to be found inside. 
+
+To the west, a broken iron gate followed by a stairway leading 25 feet down.
+
+### 2. Guard Room
+Pilfered armoires and chests flank the walls. A corpse, emaciated, Changed, lies crumbled in the center of the room, a crossbow bolt protruding from a sunken eye socket. 
+
+No Shadow in this room.
+
+To the west, an iron door, blocked. A STR check will clear the barricade, with a greater success causing a greater clatter when the door is pushed open.
+
+### 3. Rotunda
+An impressively tall domed chamber of worked marble, partially collapsed at the center. Four 10-foot statues of the Tyrant King stand in the ordinal directions of the room, all heavily vandalized and broken aside from that to the SE, which bears a jeweled crown (200gp, quietly opens an arrowslit to the Armory when removed).
+
+A pooling column of Shadow fills a 15-foot span under the wrecked skylight. 
+
+To the south, a locked banded wooden door with three festering purple gouges, head height. To the north, a closed wooden door and the quiet, steady buzz of insects. To the west, closed double iron doors with the Tyrant King's sigil.
+
+### 4. Armory
+On the various armor racks around the room, there are several full sets of heavy Imperial Armor (6AC, 60GP each), hastily doffed and strewn about. Earl, partway through his Change, waits in ambush among the mess. He fires his crossbow at the first person to open the door.
+
+<img align="right" width=125 src="earl.png"> 
+
+* **Earl** (he/him) - 2HD, 3AC, Crossbow, Dagger  
+A brigand and outlaw from the east who fled to the one place he knew he wouldn't be followed. He pilfered small goods and food from Krotak in preparation for a Shadow-crossing. He is four days into his Change, and speaks of a multi-limbed beast that crawls through the Shadowy skylight of the Rotunda.
+
+_"It leaves them alone but it'll come for you. It carries the Shadow with it."_
+
+Earl claims the floral locket was taken from him in his sleep.
+
+To the west, a hidden and locked door.
+
+### 5. Kitchen
+A large swarm of buzzing, biting flies pushes through the door when opened (Save or lose 1d6 Grit). The shelves and surfaces are empty, picked clean.
+
+An open ventilation shaft above the large cook stove leaves only a narrow path not touched by Shadow. 
+
+To the east, a hinged wooden door, the smell of rot and a periodic wet slurping, crunching noise. 
+
+### 6. Larder
+The cold food storage room is wildly overgrown with mold. Three Well-Fed Changed scrape at the walls with hands and teeth, devouring it and any scraps of food that might remain. They are only interrupted from this activity by exposure to light.
+
+#### Well-Fed Changed
+3HD, 0AC, 1d4+2 Shadow Corruption, Attacks at 1d6, Save vs. Force-Feed on a hit.
+
+Much stronger than the other Changed due to their constant consumption of the fast-growing mold in the Larder. They target torchbearers first, attempting to extinguish any light. Once the torches are out, they try to force-feed their opponents fistfuls of mold: Save or succumb to the psychoactive substance for 1d6 hours, during which time you can take no actions other than gorging on the putrid mass.
+
+### 7. Barracks
+A long chamber lined with 10 bunk beds on either side. Weapons, armor, and personal belongings are scattered throughout the room, making movement difficult. Each bed has a 1 in 6 chance of containing a Changed, who will wake shrieking if disturbed—immediately check for a random encounter, which will arrive from an adjacent room. 
+
+No Shadow in this room.
+
+To the west, a double set of reinforced iron doors, barred from this side. To the south, a splintered wooden door, a low guttural groan.
+
+### 8. Training Chamber
+Three battered training dummies, two in heavy armor, stand along the east wall next to a 15-foot deep pit. The pit is obvious with any light source. At the bottom, two Changed corpses, each pierced with a crossbow bolt, and one barely-alive Changed pinned beneath them. A fetid blood moss (100GP per ounce to a necromancer) grows around their bodies.
+
+No Shadow in this room.
+
+To the west, a double set of reinforced iron doors, barred from this side. To the east, a hidden passage, revealed if a set of heavy armor is placed on the bare training dummy.
+
+### 9. Jail Cells
+Nine locked cells, several containing emaciated Changed. A major portion of the north wall is collapsed, and Shadow pools in from above, completely filling the corridor to the midpoint. 
+
+To the north-west, through the Shadow, an open tunnel leads to a natural cavern, a low wordless chanting. To the north, the collapsed wall leads up and out into the Shadowlands.
+
+### 10. Lichen Farm
+Filled with Shadow.
+
+In a far alcove of the cavern, five Changed sit huddled and chanting around Bert's locket^[A magical charm used to encourage fungal growth. Remarkably valuable—300GP on the low end—but Bert likes it most because it reminds her of home.], the floral icon emitting a calming glow atop an abundant bed of green-grey lichen. These Changed are averse to light, but will not become aggressive or cease their chanting except under duress. Removing the locket ends the growth spell, but the bed of lichen remains lush.
+
+<img align="right" width=175 src="FacelessOne.png"> 
+
+The Lichen Farm is the destination of the Shadow Keeper, who has sensed the locket's power, and is seeking Changed to cast _Affinity With Shadow_ upon them and lead them to the Shadow commune of Umbra. 
+
+The Keeper is neutral to un-Changed humans, unless it suspects they have killed any Changed, in which case it will fight mercilessly using high level magic. If pushed to surrender or if meeting a group of adventurers on positive terms, it will attempt to recruit them.
+
+_"Most who have undergone metamorphosis are not nearly as strong as you. Would you accept the mantle of protector and scion? We would make your own journey as painless as possible, and you could still do great things in this world. Please consider it. Umbra would make it worth the sacrifice."_
+
+## Epilogue
+All who have changed carry the seed of the Shadow. In untarnished soil it burrows, it nestles, and it waits to be born.
