@@ -2,27 +2,27 @@
 weight: 10
 title: The Dungeon Near the Shadow
 description: |
-  Introductory System-Agnostic TTRPG Horror
+  Introductory TTRPG Horror
 ---
 <iframe frameborder="0" src="https://itch.io/embed/1193059?linkback=true" width="552" height="167"><a href="https://jasonwardell.itch.io/the-dungeon-near-the-shadow">The Dungeon Near the Shadow by jason wardell</a></iframe>
 
 ## Introduction
-The persistent suborbital occlusion sits writhing in the west. It dropped from the heavens, some say, or maybe it bubbled out of the ground or burst out of the space between air, three years past. Some call it the *Shadow* for how it negates the light, drowning everything it covers in opaque darkness. 
+The persistent suborbital occlusion sits writhing in the west. It dropped from the heavens, some say, or maybe it bubbled out of the ground or burst out of the space between air, three years past. Some call it the "Shadow" for how it negates the light, drowning everything it covers in opaque darkness. 
 
 The sun no longer sets in the west: it disappears into the Shadow, and each evening you can hear prayers at every hearth that it returns unchanged the next day. Most things that enter the shadow do not return, and if they do, they are seldom unchanged.
 
-**THE DUNGEON NEAR THE SHADOW** is a low-level horror-flavored adventure for the tabletop role-playing game of your choice. It refers to many standard elements across simple systems—hit dice, armor value, saves—but if your system does not use these mechanics, you should find a suitable substitute that maintains a vibe of _creepy, weird, & dangerous._
+**THE DUNGEON NEAR THE SHADOW** is a low-level horror-flavored adventure for the tabletop role-playing game of your choice. It refers to many standard elements across simple systems—hit dice, armor value, saves—but if your system does not use these mechanics, you should find a suitable substitute that maintains a vibe of _creepy, weird, & dangerous._ For this document, I've used stats for [The Vanilla Game](https://vanillagame.carrd.co/) by Jared Sinclair.
 
-Words and design by (Jason Wardell)[https://jasonwardell.itch.io/], September 2021. Revised November 2022.
+Words and design by [Jason Wardell](https://jasonwardell.itch.io/), September 2021. Revised November 2022.
 
-Character portraits by (Evlyn Moreau)[https://www.patreon.com/evlynmoreau/].
+Character portraits by [Evlyn Moreau](https://www.patreon.com/evlynmoreau/).
 
 Art and text may not be reused. All artists maintain copyright of their work.
 
 When it comes our time to change, may we be led caringly into that terrifying unknown, and may we learn to do the same for those who come after.
 
 ## Krotak
-The town of **Krotak** is the last town before the shadow overtakes the western lands. Despite its proximity to the cursed occlusion, it is a thriving and peaceful place. When the shadow emerged, it wholly enveloped the seat of power for the Tyrant King Lyrica, effectively liberating the fertile farmlands at the outskirts of his domain. The farmers and tradespeople who were so commonly subjected to his cruelty built up Krotak as an independent community, and it has blossomed into a tight-knit and self-sustaining settlement.
+The town of Krotak is the last town before the shadow overtakes the western lands. Despite its proximity to the cursed occlusion, it is a thriving and peaceful place. When the shadow emerged, it wholly enveloped the seat of power for the Tyrant King Lyrica, effectively liberating the fertile farmlands at the outskirts of his domain. The farmers and tradespeople who were so commonly subjected to his cruelty built up Krotak as an independent community, and it has blossomed into a tight-knit and self-sustaining settlement.
 
 Arriving, perhaps to investigate the utter collapse of a powerful continent-spanning empire, perhaps out of curiosity for the supernatural occurrence that effected it, one finds Krotak to be an insular community. Outsiders are greeted with thinly-veiled suspicion and a bare minimum of hospitality.
 
@@ -96,7 +96,10 @@ Upon coming into contact with Shadow, and for every Watch spent within, a charac
 ## Dungeon
 The small outbuilding is the only part of the Dungeon visible from outside the Shadow, its banded wooden door slightly ajar, the twin flanking guard posts long abandoned. 
 
-There is no light in the Dungeon.
+There are no light sources in the Dungeon.
+
+### Map
+<img width="500" src="tdnts-map.png">
 
 ### Encounters
 Each Turn, there is a 1 in 6 chance of an encounter. The Shadow Beast and Shadow Keeper only appear once, in a randomly-determined room.
@@ -125,7 +128,7 @@ Shadow-altered canids seeking greater sustenance than moss. Will eat other Chang
 Most have clawed their own eyes out and are not affected by light in the same way as Changed people. 
 
 #### Patch of Shadow
-0HD, Save vs. Shadow to destroy with fire
+0HD, Save vs. Shadow to destroy with fire 
 
 Throughout the bunker, loose clouds of Shadow break free and roam, seeking host. They congregate around the Changed, but subtly move toward any uninfected in the room.
 
