@@ -1,6 +1,7 @@
 ---
 weight: 10
 title: Blade in Thrall to the Lorekeeper
+date: 2022-11-21
 description: |
   A dream writing itself
 ---
