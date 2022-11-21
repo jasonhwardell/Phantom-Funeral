@@ -161,11 +161,11 @@ While the exterior of the dungeon's entrance is bisected by Shadow, there is non
 To the west, a broken iron gate followed by a stairway leading 25 feet down.
 
 ### 2. Guard Room
-Pilfered armoires and chests flank the walls. A corpse, emaciated, Changed, lies crumbled in the center of the room, a crossbow bolt protruding from a sunken eye socket. 
+Pilfered armoires and chests flank the walls. A corpse, emaciated, Changed, lies crumpled in the center of the room, a crossbow bolt protruding from a sunken eye socket. 
 
 No Shadow in this room.
 
-To the west, an iron door, blocked. A STR check will clear the barricade, with a greater success causing a greater clatter when the door is pushed open.
+To the west, an iron door, blocked. A good shove will clear the barricade, with a great clatter of collapsing stones and debris depending on the force of the effort.
 
 ### 3. Rotunda
 An impressively tall domed chamber of worked marble, partially collapsed at the center. Four 10-foot statues of the Tyrant King stand in the ordinal directions of the room, all heavily vandalized and broken aside from that to the SE, which bears a jeweled crown (200gp, quietly opens an arrowslit to the Armory when removed).
@@ -182,7 +182,7 @@ On the various armor racks around the room, there are several full sets of heavy
 * **Earl** (he/him) - 2HD, 3AC, Crossbow, Dagger  
 A brigand and outlaw from the east who fled to the one place he knew he wouldn't be followed. He pilfered small goods and food from Krotak in preparation for a Shadow-crossing. He is four days into his Change, and speaks of a multi-limbed beast that crawls through the Shadowy skylight of the Rotunda.
 
-_"It leaves them alone but it'll come for you. It carries the Shadow with it."_
+_"It leaves them alone but it'll come for you. It carries the Shadow with it. Now, end me; I've seen what I'm becoming."_
 
 Earl claims the floral locket was taken from him in his sleep.
 
@@ -222,12 +222,12 @@ To the west, a double set of reinforced iron doors, barred from this side. To th
 ### 9. Jail Cells
 Nine locked cells, several containing emaciated Changed. A major portion of the north wall is collapsed, and Shadow pools in from above, completely filling the corridor to the midpoint. 
 
-To the north-west, through the Shadow, an open tunnel leads to a natural cavern, a low wordless chanting. To the north, the collapsed wall leads up and out into the Shadowlands. 
+To the north-west, through the Shadow, an open tunnel leads to a natural cavern, a low-pitch wordless chanting. To the north, the collapsed wall leads up and out into the Shadowlands. 
 
 ### 10. Lichen Farm
 <img align="right" width=325 src="FacelessOne.jpg"> 
 
-Filled with Shadow.
+Filled with Shadow at the entrance, with 2d6 Patches of Shadow moving throughout.
 
 In a far alcove of the cavern, five Changed sit huddled and chanting around Bert's locket (300GP, encourages fungal growth), the floral icon emitting a calming glow atop an abundant bed of green-grey lichen. These Changed are averse to light, but will not become aggressive or cease their chanting except under duress. Removing the locket ends the growth spell, but the bed of lichen remains lush.
 
@@ -238,4 +238,4 @@ The Keeper is neutral to un-Changed humans, unless it suspects they have killed 
 _"Most who have undergone metamorphosis are not nearly as strong as you. Would you accept the mantle of protector and scion? We would make your own journey as painless as possible, and you could still do great things in this world. Please consider it. Umbra would make it worth the sacrifice."_
 
 ## Epilogue
-All who have changed carry the seed of the Shadow. In untarnished soil it burrows, it nestles, and it waits to be born.
+All who have Changed carry the seed of the Shadow. In untarnished soil, it burrows, it nestles, and it waits to be born.
