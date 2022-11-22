@@ -2,7 +2,7 @@
 weight: 10
 title: The Dungeon Near the Shadow
 description: |
-  Introductory TTRPG Horror
+  Low-Level, System Agnostic Horror
 ---
 <iframe frameborder="0" src="https://itch.io/embed/1193059?linkback=true" width="552" height="167"><a href="https://jasonwardell.itch.io/the-dungeon-near-the-shadow">The Dungeon Near the Shadow by jason wardell</a></iframe>
 
@@ -11,7 +11,9 @@ The persistent suborbital occlusion sits writhing in the west. It dropped from t
 
 The sun no longer sets in the west: it disappears into the Shadow, and each evening you can hear prayers at every hearth that it returns unchanged the next day. Most things that enter the shadow do not return, and if they do, they are seldom unchanged.
 
-**THE DUNGEON NEAR THE SHADOW** is a low-level horror-flavored adventure for the tabletop role-playing game of your choice. It refers to many standard elements across simple systems—hit dice, armor value, saves—but if your system does not use these mechanics, you should find a suitable substitute that maintains a vibe of _creepy, weird, & dangerous._ For this document, I've used stats for [The Vanilla Game](https://vanillagame.carrd.co/) by Jared Sinclair.
+**THE DUNGEON NEAR THE SHADOW** is a low-level horror-flavored adventure for the tabletop role-playing game of your choice. It refers to many standard elements across simple systems—hit dice, armor value, saves—but if your system does not use these mechanics, you should find a suitable substitute that maintains a vibe of _creepy, weird, & dangerous._ 
+
+For this iteration, I've used stats for [The Vanilla Game](https://vanillagame.carrd.co/) by Jared Sinclair.
 
 Words and design by [Jason Wardell](https://jasonwardell.itch.io/), September 2021. Revised November 2022.
 
