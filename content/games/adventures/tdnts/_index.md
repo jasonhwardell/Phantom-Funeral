@@ -240,4 +240,4 @@ The Keeper is neutral to un-Changed humans, unless it suspects they have killed 
 _"Most who have undergone metamorphosis are not nearly as strong as you. Would you accept the mantle of protector and scion? We would make your own journey as painless as possible, and you could still do great things in this world. Please consider it. Umbra would make it worth the sacrifice."_
 
 ## Epilogue
-All who have Changed carry the seed of the Shadow. In untarnished soil, it burrows, it nestles, and it waits to be born.
+All who have Changed carry the seed of the Shadow. In untarnished soil, it burrows, it nestles, and awaits a signal to be born.
