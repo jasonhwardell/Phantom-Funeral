@@ -126,9 +126,7 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 
 {{< tabs "ootb-encounters" >}}
 
-{{< tab "Desert" >}}
-
-### DESERT ENCOUNTERS
+{{< tab "Desert Encounters" >}}
 | d66 | Encounter                                                        |
 |----|------------------------------------------------------------------|
 | 11 | Corp Suits, twice as many as before                              |
@@ -170,9 +168,7 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 
 {{< /tab >}}
 
-{{< tab "Mountain" >}}
-
-### MOUNTAIN ENCOUNTERS
+{{< tab "Mountain Encounters" >}}
 | d66  | Encounter                                                             |
 |----|-----------------------------------------------------------------------|
 | 11 | Ancient hermit, so lonely                                             |
@@ -214,9 +210,7 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 
 {{< /tab >}}
 
-{{< tab "Grasslands" >}}
-
-### Grasslands Encounters
+{{< tab "Grasslands Encounters" >}}
 | d66 | Encounter                                                  |
 |----|------------------------------------------------------------|
 | 11 | Stranded space-faring mega yacht                           |
