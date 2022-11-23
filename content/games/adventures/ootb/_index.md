@@ -127,7 +127,7 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 {{< tabs "ootb-encounters" >}}
 
 {{< tab "Desert Encounters" >}}
-| d66 | Encounter                                                        |
+| d66 | Desert Encounter                                                        |
 |----|------------------------------------------------------------------|
 | 11 | Corp Suits, twice as many as before                              |
 | 12 | Sudden ane intense sunburn on any exposed skin                   |
@@ -169,7 +169,7 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 {{< /tab >}}
 
 {{< tab "Mountain Encounters" >}}
-| d66  | Encounter                                                             |
+| d66  | Mountain Encounter                                                             |
 |----|-----------------------------------------------------------------------|
 | 11 | Ancient hermit, so lonely                                             |
 | 12 | Cougar assassin                                                       |
@@ -211,7 +211,7 @@ These tables are to be interpreted wildly, liberally, and irresponsibly by the C
 {{< /tab >}}
 
 {{< tab "Grasslands Encounters" >}}
-| d66 | Encounter                                                  |
+| d66 | Grasslands Encounter                                                  |
 |----|------------------------------------------------------------|
 | 11 | Stranded space-faring mega yacht                           |
 | 12 | Dinosaurs who are farmers                                  |
