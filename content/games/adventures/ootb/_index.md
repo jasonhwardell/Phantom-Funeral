@@ -35,7 +35,7 @@ Peace to the gnomes.
 ## THE SCENE
 *The violet sky shimmers as the cloud cover splits and dissolves. A rinky-dink fighter makes its approach, lopsided from the out-of-spec railgun giving you visions of paint spatter and canned tomato-substitute.*
 
-*Clattering and pulsing with energy in their decent, their pilot has set a collision course with your poor, fragile carapace. *
+*Clattering and pulsing with energy in their decent, their pilot has set a collision course with your poor, fragile carapace.*
 
 ### YOU ARE BEING CHASED BY
 3 Corp Suits (1HD 1AC) + 1 Manager (as Soldier of level 1d6+2). They fly an attack skiff retrofitted with a Big-Ass Gun (B.A.G.).
@@ -66,13 +66,14 @@ Assuming it was retrieved in a couple (fewer than a dozen) pieces, the travelers
   * ***How long ago was that?***
   * ***Besides the ship, what did you take from him?***
 
-*Before this interruption, you'd set a course: 200 miles SE as the crow flies should've brought you within spitting distance of the spaceport. With the confusion from those Suits and the flatlands stretching to the horizon in every direction, it's hard to say where you need to point.*
+*Before this interruption, you'd set a course: 50 miles SE as the crow flies should've brought you within spitting distance of the spaceport. With the confusion from those Suits and the flatlands stretching to the horizon in every direction, it's hard to say where you need to point.*
 
 ***Who's leading this crew? In the absence of volunteers, nose goes.***
 
-### THE MAP GOES HERE.
-It's not a big one, but it's what we're working with.
+## THE MAP GOES HERE.
+Start at the NW edge of 1-1. It's easy to tell SE from here: just trace an arrow outward from the debris.
 
+<img src="map (1).png">
 
 ### MAP LEGEND
 1-1 - *Alkali wastes. Treacherous, caustic soil. So long as you're in your wagon, you should be good, but even then you probably won't want to linger too long.* **Desert Encounter every Shift after the first**
