@@ -58,6 +58,16 @@ For complex or chaotic **Skill** usage, **a single d6** may be used. Roll at or 
 | Engineering      | Human Resources       |
 | Human Resources       | Administration, Security Services |
 
+{{</* mermaid [class="text-center"]*/>}}
+flowchart LR
+  ad --> se
+  ad --> en
+  se --> en
+  en --> hr
+  hr --> ad
+  hr --> se
+{{</* /mermaid */>}}
+
 ## Notes
 ### Note One
 
