@@ -32,11 +32,15 @@ The war missed South Kul, but it did not miss the forest.
 ### Map
 <img src="riparian-2.png" width=450 style="float: left; margin: 0px 15px 15px 0px;"/>
 
-a. South Kul  
-b. Poacher's Camp  
-c. Wolves' Den  
-d. Ruined Fishing Lodge  
-e. Wayfarer's Temple of St. Zabeth, the Hushed  
+| -  | Location                        |
+|----|---------------------------------|
+| a. | South Kul                       |
+| b. | Poacher's Camp                  |
+| c. | Wolves' Den                     |
+| d. | Ruined Fishing Lodge            |
+| e. | Wayfarer's Temple of St. Zabeth |
+
+<br style="clear:both" />
 
 ### Random Encounters
 For every watch spent in the wilderness, there is a 1 in 6 chance of a random encounter. 
