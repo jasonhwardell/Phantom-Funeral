@@ -2,7 +2,7 @@
 weight: 40
 title: Out of the Blue
 description: |
-  A paradoxical minicrawl for INTO THE BLACK
+  A paradoxical minicrawl for 3-5 travelers in INTO THE BLACK, through wild and irresponsible encounters just trying to break out of the Corporate life.
 ---
 <iframe frameborder="0" src="https://itch.io/embed/1057502?linkback=true" width="552" height="167"><a href="https://jasonwardell.itch.io/out-of-the-blue">Out of the Blue by jason wardell</a></iframe>
 
