@@ -32,7 +32,7 @@ The war missed South Kul, but it did not miss the forest.
 ### Map
 <img src="riparian-2.png" width=450 style="float: left; margin: 0px 15px 15px 0px;"/>
 
-| -  | Location                        |
+|   | Location                        |
 |----|---------------------------------|
 | a. | South Kul                       |
 | b. | Poacher's Camp                  |
