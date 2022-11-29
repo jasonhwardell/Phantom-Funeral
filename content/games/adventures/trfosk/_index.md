@@ -30,7 +30,13 @@ The war missed South Kul, but it did not miss the forest.
 
 ## The Forest
 ### Map
-<img src="riparian-2.png" width=500/>
+<img src="riparian-2.png" width=450 style="float: left; margin: 0px 15px 15px 0px;"/>
+
+a. South Kul  
+b. Poacher's Camp  
+c. Wolves' Den  
+d. Ruined Fishing Lodge  
+e. Wayfarer's Temple of St. Zabeth, the Hushed  
 
 ### Random Encounters
 For every watch spent in the wilderness, there is a 1 in 6 chance of a random encounter. 
@@ -158,7 +164,7 @@ The sun never truly rises or sets in this part of the forest, the golden hour st
 **Thorn Spirit** - 1 Vim, 2 Armor
   * Scatters thorns when agitated or slain, causing d4 damage when moving in the area.
 
-## The Wayfarer's Temple of St. Zabeth
+## The Wayfarer's Temple of St. Zabeth, the Hushed
 A hideous affront, the blasted remains of the traveler's temple sit atop a hill amid a horde of restless dead, the pockmarked land of upturned graves teeming with unlife. The church bell intermittently tolls, marking no specific passage of time, and signaling no change in the dead.
 
 The curse holding this land emanates from the unholy temple. Most of the dead are not aggressive, sleepwalking through the end of days. The graveyard hosts 8d6 (reroll on 1 and 2) and the church grounds 6d6 (reroll on 1) Restless Dead. For each rerolled die, that number are automatically aggressive. Fighting attracts 1d6 Skeletons from a random direction.
