@@ -60,11 +60,11 @@ It takes two watches to traverse one hex. This is no terrain for carts or horses
 Upon entering a new hex, there is a 1 in 6 chance of it containing a landmark. Each landmark may only be discovered once.
 
   1. A hastily vacated campsite. One dead wolf. Four dead poachers.
-  2. A lonely alder tree in a clearing, bubbling grey mushrooms. Overcome **Frailty/Weak** to eat one and talk with the tree, who hasn't had a good chat in a decade. The tree reveals a nearby cache containing 15 old gold coins, a military uniform, and a rapier. On a failure, painfully retch the mushrooms up. The tree, embarrassed, will not speak with you.
-  3. A clandestine distillery operation, with two survivalists creating a powerful, flammable, and disgusting spirit. As you talk, mosquitos are drawn by the sugary wort.
+  2. A lonely alder tree in a clearing, bubbling grey mushrooms. Test Frailty/Weak to eat one and talk with the tree, who hasn't had a good chat in a decade. The tree reveals a nearby cache containing an abandoned military uniform and rapier. On a failure, painfully retch the mushrooms up. The tree, embarrassed, will not speak with you.
+  3. A clandestine distillery operation, with two survivalists creating a powerful, flammable, and disgusting spirit that restores 1d6 Vim and raises Clumsiness/Slow by 1. As you talk, mosquitos are drawn by the sugary wort, and the distillers slap wildly at their exposed skin.
   4. A patch of delicate purple-flowering shrubs, smelling sharply of vinegar. Nothing feeds on it. The petals may be brewed in a tea, which causes the imbiber to exude a similar smell and repel all insects for a day.
   5. The undergrowth is thick and labyrinthine. The trees will not take kindly to mutilation, beckoning Sapling Spirits to pilfer small items from the pilgrims' packs if they cut their way through. Clambering to a better vantage point is difficult, with many opportunities for grievous injury.
-  6. Sigs of digging among old, battle-scarred trees. A few feet down, large stones cover a pit with three decomposed bodies, each wearing a pristine military insignia, each holding a skeletal finger to their lips. 
+  6. Signs of digging among old, battle-scarred trees. A few feet down, large stones cover a pit with three decomposed bodies, each wearing a pristine military insignia, each holding a skeletal finger to their lips. 
 
 ## The Wolves
 The first night spent in the forest, the wolves come. At first, just one or two of them, casing the pilgrims' encampment. They are large, but keep their distance and quickly slink away if approached. They return, eight in total, plus one mother.
