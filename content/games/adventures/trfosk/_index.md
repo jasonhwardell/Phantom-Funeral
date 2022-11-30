@@ -9,7 +9,7 @@ description: |
 ## Frontmatter
 THE RIPARIAN FOREST OUTSIDE SOUTH KUL is what I decided to call a "low-stakes" forest crawl. There's ostensibly an adventure in here and a hex map, but as with any pilgrimage worth a damn, there's the journey, and then there's the destination, and both are what you make of it. 
 
-It is designed to adapt to the minimal role-playing ruleset of your choice. For this iteration, I've used stats for [PILGRIMS OF MISFORTUNE](https://www.exaltedfuneral.com/products/pilgrims-of-misfortune-pdf) and/or [RODER](https://perchance.org/roder), both by [Nate Treme](https://hps.quest/).
+Originally written with stats for [CAIRN](https://cairnrpg.com/) by [Yochai Gal](https://newschoolrevolution.com/), it has always been intended to adapt to the minimal role-playing ruleset of your choice. For this iteration, I've used stats for [PILGRIMS OF MISFORTUNE](https://www.exaltedfuneral.com/products/pilgrims-of-misfortune-pdf) and/or [RODER](https://perchance.org/roder), both by [Nate Treme](https://hps.quest/), mostly because I want to run it in one of those systems soon.
 
 Words and design by [Jason Wardell](https://jasonwardell.itch.io/), April 2022. Revised November 2022.
 
