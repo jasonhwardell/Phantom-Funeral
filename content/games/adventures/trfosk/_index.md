@@ -30,7 +30,7 @@ The war missed South Kul, but it did not miss the forest.
 
 ## The Forest
 ### Map
-<img src="riparian-2.png" width=450 style="float: left; margin: 0px 15px 15px 0px;"/>
+<img src="riparian-2.png" alt="Hex map detailing the Riparian Forest." width=450 />
 
 |   | Location                        |
 |----|---------------------------------|
