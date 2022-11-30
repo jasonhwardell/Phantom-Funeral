@@ -58,22 +58,6 @@ menu:
 params:
   description: A Phantom Funeral.
   
-  # Going to try to not mess things up too badly here: adding font variant hopefully?
-  Platen:
-    Theme:
-      Fonts:
-        Settings:
-          Body:
-            Family: "'Jost', sans-serif"
-            Selector: body
-          Headings:
-            Family: "'Fraunces', serif"
-            Selector: h1, h2, h3, h4, h5, h6
-        Styles:
-          - jost
-          - fraunces
-  
-
   # Use this for the social media preview functionality
   # images:
   #   - /images/site-feature-image.png
