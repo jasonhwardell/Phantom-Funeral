@@ -185,7 +185,7 @@ The Sisters of Zabeth take an oath of silence and service to those who resist ty
 The spirit of Saint Zabeth, the terror of her martyrdom, and the rage at her disciples' slaughter gives restlessness to the dead here. When the tower bell ceases ringing, night falls, and she manifests as a skeletal giant in the courtyard, plunging a sword of distrust and vengeance into the earth.
 
 ### Encounters
-**Avatar of St. Zabeth** - 35 Vim, 2 Armor, 4 DOU, greatsword (d10), Spellbook (*Raise Dead, Hatred, Silence*)
+**Avatar of St. Zabeth** - 35 Vim, 2 Armor, 4 Doubt/Foolish, greatsword (d10), Spellbook (*Raise Dead, Hatred, Silence*)
   * Moves without a sound, never communicates by speech.
   * Max damage dealt by her greatsword permanently steals her target's voice.
   * Her sword, an implement of war, is inherently cursed. Peace in the forest will never come through war.
