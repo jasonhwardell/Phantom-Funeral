@@ -43,16 +43,16 @@ The war missed South Kul, but it did not miss the forest.
 <br style="clear:both" />
 
 ### Random Encounters
-For every watch spent in the wilderness, there is a 1 in 6 chance of a random encounter. 
+For every watch spent in the wilderness, there is a 1 in 6 chance of a random encounter. Roll 2d6 and consult the table below.
 
-| # | Number | Encounter       |
-|---|--------|-----------------|
-| 1 | 1d6    | Wolves          |
-| 2 | 1d6+1  | Poachers        |
-| 3 | 2d6    | Wild Pigs       |
-| 4 | 2d6+2  | Mosquitos       |
-| 5 | 3d6    | Sapling Spirits |
-| 6 | 3d6+3  | Roll Twice      |
+| # | Number | # | Encounter       |
+|---|--------|---|-----------------|
+| 1 | 1d6    | 1 | Wolves          |
+| 2 | 1d6+1  | 2 | Poachers        |
+| 3 | 2d6    | 3 | Wild Pigs       |
+| 4 | 2d6+2  | 4 | Mosquitos       |
+| 5 | 3d6    | 5 | Sapling Spirits |
+| 6 | 3d6+3  | 6 | Roll Twice      |
 
 ### Landmarks
 It takes two watches to traverse one hex. This is no terrain for carts or horses. The river is wild and largely impassable without a boat, save for the reedy shallows to the east.
@@ -146,14 +146,14 @@ The vibrancy of the forest changes on approach. Whereas the woods had been green
 
 For every watch spent across the river, there is a 2 in 6 chance of a random encounter.
 
-| # | Number | Encounter             |
-|---|--------|-----------------------|
-| 1 | 1d6    | Wolves                |
-| 2 | 1d6+1  | Restless Dead         |
-| 3 | 2d6    | Skeletons             |
-| 4 | 2d6+2  | Thorn Spirits         |
-| 5 | 3d6    | Sleep-Deprived Beasts |
-| 6 | 3d6+3  | Roll Twice            |
+| # | Number | # | Encounter             |
+|---|--------|---|-----------------------|
+| 1 | 1d6    | 1 | Wolves                |
+| 2 | 1d6+1  | 2 | Restless Dead         |
+| 3 | 2d6    | 3 | Skeletons             |
+| 4 | 2d6+2  | 4 | Thorn Spirits         |
+| 5 | 3d6    | 5 | Sleep-Deprived Beasts |
+| 6 | 3d6+3  | 6 | Roll Twice            |
 
 The sun never truly rises or sets in this part of the forest, the golden hour stretching out in every direction. The plentiful fauna of the forest are skittish and unpredictable, stolen of their circadian rhythm. The dead roam the lands, playing out their cruel end in a perpetual loop of eerie silence.
 
