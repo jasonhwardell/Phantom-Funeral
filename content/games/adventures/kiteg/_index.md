@@ -16,7 +16,7 @@ Farms and ranches in the region have all reported small items going missing from
 The young Ralth girl, Mora, never very personable, greedy, and often bullied, got in trouble at school before she went missing. She brandished a small silver dagger when shoved in the playground and refused to say where she found it.
 
 ## The Ranch
-The ranch is operated by the patriarch, who everyone just calls "Old Ralth." His son, Nic, and daughter-in-law, Stasia, also live and work on the ranch with their daughter, Mora. The house and grounds are silent, animal cries of hunger from the cowshed. At night, a small fire in the equipment graveyard among the windbreak trees, canid cackling, and a clatter of metal and wood splintering deeper.
+The ranch is operated by the patriarch, who everyone just calls "Old Ralth." His son, Nic, and daughter-in-law, Stasia, also live and work on the ranch with their daughter, Mora. The house and grounds are silent, save for the animal cries of hunger from the cowshed. At night, a small fire in the equipment graveyard among the windbreak trees, canid cackling, and a clatter of metal and wood splintering deeper.
 
 ### Equipment Graveyard
 The kobolds only come above at night, keeping their passages below well-hidden. The chutes are steep and dark, and kobolds jumping down set poisoned spear traps within, with an audible click. A lever below dismantles the trap. 
