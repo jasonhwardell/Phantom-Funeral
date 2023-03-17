@@ -1,6 +1,6 @@
 ---
 title: Phantom Funeral Press
-date: 2022-11-29
+date: 2023-03-17
 type: docs
 ---
 
@@ -8,10 +8,10 @@ This is the place for the triflings of Phantom Funeral Press, an illusory imprin
 
 The site design and implementation is whole-hog lifted from [Michael Lombardi's Platen Template](https://github.com/platenio/platen-template). It's a good design and I like it a lot.
 
-As of November 2022, I've completed the web version for several of my [adventures](/games/adventures/) and [other short whatnots](/games/things/). No longer will you hit a blank page should you navigate therein!
+As of March 2023, my newest adventure: [STONES TO KILL THE SEA](/games/adventures/stkts/) is live and ready for your enjoyment. Additionally, print copies of [KOBOLDS. IN THE EQUIPMENT GRAVEYARD](/games/adventures/kiteg/) are on their way and will soon be available with at least two of your favorite TTRPG retailers!  
 
-I also make some dungeon-worthy music as [In the Vast Forest](https://inthevastforest.bandcamp.com/). Check out my contribution to [Heimat Der Katastrophe's](https://heimatderkatastrophe.bandcamp.com/) Dungeon Synth Magazine below!
+I also make some dungeon-worthy music as [In the Vast Forest](https://inthevastforest.bandcamp.com/). Check out my soundtrack for Andrew Orvedahl's brilliant game [DUSTER](https://www.occupiedhex.com/duster) below.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3511152674/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=521890882/transparent=true/" seamless><a href="https://heimatderkatastrophe.bandcamp.com/album/hdk-120-hdk-dungeon-synth-magazine-6">HDK 120 † HDK Dungeon​-​synth magazine # 6 by V.A.</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1087841033/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://inthevastforest.bandcamp.com/album/duster-ep">Duster EP by In the Vast Forest</a></iframe>
 
 If you wanna, you can follow me on <a rel="me" href="https://dice.camp/@jasonwardell">Mastodon</a>.
