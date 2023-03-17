@@ -17,7 +17,7 @@ A massive ecological disaster has crippled the Arch Druid of Barthe. The entire 
 Approaching the edge of the Great Green Sea, you find nothing but a dry, saline basin. In the far distance, the lighthouse shines with a stunning turquoise glow.
 
 ## Great Green Sea
-[map]
+<img src="stkts-hex.png" />
 
 *Any hex not filled in is salt-crusted soil, littered with desiccated fish carcasses.*
 
@@ -48,7 +48,7 @@ Approaching the edge of the Great Green Sea, you find nothing but a dry, saline 
 ## As long as they've known it, men have tried to own the sea and all that it hides.
 
 ## Isle of Carsen
-[map]
+<img src="stkts-carsen.png" width=400 />
 
 ### Automata
 1HD. 2AC. Club/Club or Electric Discharge (test Dexterity or Paralyzed for 1 Round). 9S. 1d6 appearing.
