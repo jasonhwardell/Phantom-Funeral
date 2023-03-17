@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 5
 title: Stones to Kill the Sea
 description: |
   A hexcrawl and dungeon adventure for the Bastards. TTRPG system. Ecological disaster. An artificer grasping at power beyond his control. Surfboards.
