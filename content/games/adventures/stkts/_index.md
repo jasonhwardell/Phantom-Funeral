@@ -1,3 +1,10 @@
+---
+weight: 10
+title: Stones to Kill the Sea
+description: |
+  A hexcrawl and dungeon adventure for the Bastards. TTRPG system. Ecological disaster. An artificer grasping at power beyond his control. Surfboards.
+---
+
 <iframe frameborder="0" src="https://itch.io/embed/1972016" width="552" height="167"><a href="https://jasonwardell.itch.io/stones-to-kill-the-sea">Stones to Kill the Sea by jason wardell</a></iframe>
 
 ## Hooks
