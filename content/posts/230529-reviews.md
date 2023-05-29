@@ -1,8 +1,8 @@
 ---
 author: Jason Wardell
 date: 2023-5-29
-linktitle: Critique, Review, Workshop
-title: Critiquing the Critical Review Scene in TTRPG: a Workshop Protocol
+linktitle: Critique and Review and Workshop
+title: Critiquing the Critical Review Scene in TTRPG, a Workshop Protocol
 weight: 10
 ---
 
