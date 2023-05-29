@@ -54,6 +54,9 @@ menu:
     - name: "jasonwardell.itch.io"
       url: "https://jasonwardell.itch.io/"
       weight: 10
+    - name: "store.phantomfuneral.com"
+      url: "https://store.phantomfuneral.com/"
+      weight: 10
 
 params:
   description: A Phantom Funeral.
