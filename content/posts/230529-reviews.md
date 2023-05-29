@@ -5,6 +5,7 @@ linktitle: Critique and Review and Workshop
 title: Critiquing the Critical Review Scene in TTRPG, a Workshop Protocol
 weight: 10
 ---
+# Or, Critiquing the Critical Review Scene in TTRPG, a Workshop Protocol
 
 ## Lord help me.
 I'm going to blame it on one literary criticism course I took nigh-on twenty years ago, but as discussions and feelings swirl around the topic of building a culture of critique into the small-press and independent tabletop role playing game community, a thing I see consistently cropping up in the discussion is a misunderstanding between the reviewer and the reviewed (and, usually, the review reader) due to a lack of shared context. What I remember from that course is: to critically read a text, you've gotta be reading it in the context of _something_ and that backdrop should be crystal clear. Am I reading it from a historical and colonial perspective? Am I applying a feminist critique? Am I assessing an Asteriskpunk book for markers of the genre? And if the genre is "punk," which era? Which continent? Which comparison points? This stuff is important as table setting so the critic, the author, and the reader are meeting each other in the same context, even if that context isn't one the original author intended.
